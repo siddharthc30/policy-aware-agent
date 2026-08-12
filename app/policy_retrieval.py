@@ -12,8 +12,8 @@ from app.models import PolicyChunk
 
 logger = logging.getLogger("policy_agent")
 
-CHUNK_SIZE = 200
-CHUNK_OVERLAP = 50
+CHUNK_SIZE = 800
+CHUNK_OVERLAP = 150
 
 def _load_and_split(path, source_name: str):
     loader = PyPDFLoader(str(path))
