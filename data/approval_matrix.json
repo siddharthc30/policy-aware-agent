@@ -1,0 +1,29 @@
+{
+  "auto_approve_limits": {
+    "Engineering": 500.00,
+    "Sales": 300.00,
+    "Marketing": 250.00,
+    "Finance": 400.00,
+    "HR": 200.00,
+    "Operations": 350.00,
+    "default": 200.00
+  },
+  "approval_tiers": [
+    {
+      "max_amount": 1000,
+      "approver": "manager"
+    },
+    {
+      "max_amount": 5000,
+      "approver": "director"
+    },
+    {
+      "max_amount": 15000,
+      "approver": "vp_finance"
+    },
+    {
+      "max_amount": null,
+      "approver": "cfo"
+    }
+  ]
+}

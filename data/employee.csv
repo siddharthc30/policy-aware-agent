@@ -1,0 +1,16 @@
+employee_id,name,department,role,manager
+EMP001,Alice Johnson,Engineering,Senior Engineer,Bob Smith
+EMP002,Carol Lee,Sales,Account Executive,Dave King
+EMP003,Eve Adams,Engineering,Intern,Bob Smith
+EMP004,Frank Miller,Marketing,Marketing Manager,Grace Chen
+EMP005,Hannah Park,Finance,Financial Analyst,James Wilson
+EMP006,Bob Smith,Engineering,Engineering Director,Laura Davis
+EMP007,Dave King,Sales,Sales Director,Laura Davis
+EMP008,Grace Chen,Marketing,VP of Marketing,Laura Davis
+EMP009,James Wilson,Finance,Finance Director,Richard Moore
+EMP010,Laura Davis,Operations,VP of Operations,Richard Moore
+EMP011,Richard Moore,Finance,CFO,CEO
+EMP012,Nina Torres,HR,HR Specialist,Olivia Grant
+EMP013,Olivia Grant,HR,HR Director,Laura Davis
+EMP014,Sam Patel,Engineering,Junior Developer,Bob Smith
+EMP015,Tina Ruiz,Sales,Sales Representative,Dave King
